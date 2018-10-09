@@ -1,4 +1,5 @@
 var assert = require('assert');
+var Rectangle = require('../src/Rectangle');
 
 describe('Rectangle', function () {
     describe('area', function () {
